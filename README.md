@@ -21,6 +21,5 @@ Transformation & Improvement Pharmacist (NHS)
 - ⚙️ Process improvement / automation
 
 ## 🔗 Links
-- LinkedIn: [your link]
-- GitHub Projects below ↓
+- LinkedIn: https://www.linkedin.com/in/benjamin-spencer-a9306199
 ``
