@@ -1,16 +1,26 @@
-## Hi there 👋
+# Benjamin Spencer
 
-<!--
-**BenKSpencer/BenKSpencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformation & Improvement Pharmacist (NHS)
 
-Here are some ideas to get you started:
+## 🔧 What I do
+- Primary care transformation & optimisation
+- Clinical system design (EMIS / SystmOne)
+- Data-driven population health management
+- Medicines optimisation & cost efficiency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Digital skills
+- SQL / Excel / Power BI (if applicable)
+- Clinical system configuration (templates, protocols)
+- Workflow automation
+- Data analysis for service improvement
+
+## 📊 Projects
+- 📈 Prescribing optimisation tools
+- 📉 Budget forecasting models
+- 🧠 Clinical templates for GP systems
+- ⚙️ Process improvement / automation
+
+## 🔗 Links
+- LinkedIn: [your link]
+- GitHub Projects below ↓
+``
