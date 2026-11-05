@@ -1,6 +1,5 @@
 # Benjamin Spencer
-
-Transformation & Improvement Pharmacist (NHS)
+# Head of Medicines (Inequalities & Population Health(NHS)
 
 ## 🔧 What I do
 - Primary care transformation & optimisation
