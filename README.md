@@ -16,7 +16,8 @@ I'm particularly interested in where medicines optimisation, population health m
 
 ## 💻 Digital skills
 
-- SQL / Excel / Power BI
+- Excel
+- Python (learning): see [Programming with Python](programming-with-python/)
 - Clinical system configuration (templates, protocols, electronic formulary)
 - Prescribing support and analytics tools: OptimiseRx, ePACT2, Eclipse
 - Workflow automation
@@ -28,6 +29,7 @@ I'm particularly interested in where medicines optimisation, population health m
 - 📉 **Budget forecasting models** – impact of patent expiries and cost-effective switching strategies
 - 🧠 **Clinical templates for GP systems** – including an Anticholinergic Burden Calculator built in TPP SystmOne, shared with Ardens, who went on to develop their own national version
 - ⚙️ **Process improvement / automation** – aligning the SystmOne electronic formulary with OptimiseRx
+- 🐍 **[Programming with Python](programming-with-python/)** – my learning journey in Python for data and population health, with numbered lessons and fictional practice datasets
 
 ## 🧑‍⚕️ Career
 
