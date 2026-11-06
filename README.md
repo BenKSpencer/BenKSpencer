@@ -27,8 +27,7 @@ I'm particularly interested in where medicines optimisation, population health m
 
 - 📈 **Prescribing optimisation tools** – prescribing intelligence and reporting to support safe, cost-effective prescribing
 - 📉 **Budget forecasting models** – impact of patent expiries and cost-effective switching strategies
-- 🧠 **Clinical templates for GP systems** – including an Anticholinergic Burden Calculator built in TPP SystmOne, shared with Ardens, who went on to develop their own national version
-- ⚙️ **Process improvement / automation** – aligning the SystmOne electronic formulary with OptimiseRx
+- 🧠 **Clinical templates for GP systems** – including an Anticholinergic Burden Calculator built in TPP 
 - 🐍 **[Programming with Python](programming-with-python/)** – my learning journey in Python for data and population health, with numbered lessons and fictional practice datasets
 
 ## 🧑‍⚕️ Career
