@@ -17,7 +17,7 @@ I'm particularly interested in where medicines optimisation, population health m
 ## 💻 Digital skills
 
 - Excel
-- Python (learning): see [Programming with Python](programming-with-python/)
+- Python (learning): see [Programming with Python](https://github.com/BenKSpencer/Programming-with-Python)
 - Clinical system configuration (templates, protocols, electronic formulary)
 - Prescribing support and analytics tools: OptimiseRx, ePACT2, Eclipse
 - Workflow automation
@@ -28,7 +28,7 @@ I'm particularly interested in where medicines optimisation, population health m
 - 📈 **Prescribing optimisation tools** – prescribing intelligence and reporting to support safe, cost-effective prescribing
 - 📉 **Budget forecasting models** – impact of patent expiries and cost-effective switching strategies
 - 🧠 **Clinical templates for GP systems** – including an Anticholinergic Burden Calculator built in TPP 
-- 🐍 **[Programming with Python](programming-with-python/)** – my learning journey in Python, SQL, NHS APIs, FHIR and population health methods, with numbered lessons, fictional practice datasets and a medicines inequalities capstone
+- 🐍 **[Programming with Python](https://github.com/BenKSpencer/Programming-with-Python)** – my learning journey in Python, SQL, NHS APIs, FHIR and population health methods, with numbered lessons, fictional practice datasets and a medicines inequalities capstone
 
 ## 🧑‍⚕️ Career
 
